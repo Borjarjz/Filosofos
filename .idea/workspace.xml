@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b79b7de-cb40-4c3b-88ff-d60135f29793" name="Changes" comment="FILOSOFOS FUNCIONANADO" />
+    <list default="true" id="5b79b7de-cb40-4c3b-88ff-d60135f29793" name="Changes" comment="añadir test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669472510958</updated>
-      <workItem from="1669472517176" duration="995000" />
+      <workItem from="1669472517176" duration="1319000" />
     </task>
     <task id="LOCAL-00001" summary="FILOSOFOS FUNCIONANADO">
       <created>1669472840936</created>
@@ -60,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669472840936</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="añadir test">
+      <created>1669478366452</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669478366452</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FILOSOFOS FUNCIONANADO" />
-    <option name="LAST_COMMIT_MESSAGE" value="FILOSOFOS FUNCIONANADO" />
+    <MESSAGE value="añadir test" />
+    <option name="LAST_COMMIT_MESSAGE" value="añadir test" />
   </component>
 </project>
